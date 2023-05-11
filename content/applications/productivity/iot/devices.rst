@@ -14,3 +14,4 @@ Devices
    devices/footswitch
    devices/printer
    devices/scale
+   devices/opc_ua
