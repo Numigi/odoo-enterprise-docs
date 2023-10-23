@@ -10,3 +10,4 @@ Human resources
    hr/employees
    hr/payroll
    hr/recruitment
+   hr/referrals
