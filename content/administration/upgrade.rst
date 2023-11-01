@@ -9,6 +9,8 @@
 Upgrade
 =======
 
+.. _administration/upgrade:
+
 .. toctree::
    :titlesonly:
 
