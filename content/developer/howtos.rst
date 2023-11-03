@@ -12,8 +12,13 @@ How-to guides
     howtos/company
     howtos/accounting_localization
     howtos/translations
+<<<<<<< HEAD
     howtos/website_themes
     howtos/provide_iap_services
+||||||| parent of 0b331b369 (temp)
+    howtos/provide_iap_services
+=======
+>>>>>>> 0b331b369 (temp)
     howtos/connect_device
 
 .. cards::
@@ -39,6 +44,7 @@ How-to guides
 
       Learn how to provide translation abilities to your module.
 
+<<<<<<< HEAD
    .. card:: Website themes
       :target: howtos/website_themes
 
@@ -49,6 +55,14 @@ How-to guides
 
        Learn how to provide ongoing services with Odoo's In-App Purchase (IAP).
 
+||||||| parent of 0b331b369 (temp)
+   .. card:: Provide IAP services
+      :target: howtos/provide_iap_services
+
+       Learn how to provide ongoing services with Odoo's In-App Purchase (IAP).
+
+=======
+>>>>>>> 0b331b369 (temp)
    .. card:: Connect with a device
       :target: howtos/connect_device
 
